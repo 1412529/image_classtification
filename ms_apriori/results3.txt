@@ -1,0 +1,41 @@
+Results
+
+No. of length 4 frequent itemsets: 1
+
+{[9, 7, 2, 4]} : support-count = 3
+
+No. of length 3 frequent itemsets: 5
+
+{[1, 5, 6]} : support-count = 3
+{[9, 7, 2]} : support-count = 3
+{[9, 7, 4]} : support-count = 4
+{[9, 2, 4]} : support-count = 3
+{[5, 6, 2]} : support-count = 3
+
+No. of length 2 frequent itemsets: 13
+
+{[1, 5]} : support-count = 3
+{[1, 6]} : support-count = 3
+{[9, 7]} : support-count = 5
+{[9, 2]} : support-count = 3
+{[9, 4]} : support-count = 4
+{[5, 6]} : support-count = 3
+{[5, 2]} : support-count = 4
+{[5, 3]} : support-count = 3
+{[6, 2]} : support-count = 6
+{[7, 2]} : support-count = 4
+{[7, 4]} : support-count = 4
+{[2, 3]} : support-count = 5
+{[3, 4]} : support-count = 5
+
+No. of length 1 frequent itemsets: 9
+
+{8} : support-count = 1
+{1} : support-count = 4
+{9} : support-count = 5
+{5} : support-count = 6
+{6} : support-count = 7
+{7} : support-count = 7
+{2} : support-count = 8
+{3} : support-count = 8
+{4} : support-count = 8
